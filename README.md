@@ -1,5 +1,6 @@
 # Among Us dating problem
 We created this repository as a way to **facilitate access to information regarding the Among Us dating situation**.
+![Image about the Among Us dating issue](ISprotest.png)
 
 ## The problem
 E-Daters ("Daters", "the Daters") have been plaguing Among Us since its rise in 2020 (it's mostly why they randomized lobby names at some point!). The game's easy access to chat features and a **customizable, public matchmaker** with a filter make it incredibly easy for Daters to find people through the game, including **children**.
