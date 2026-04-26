@@ -10,7 +10,7 @@ E-Daters ("Daters", "the Daters") have been plaguing Among Us since its rise in 
 
 Due to the existence of 4-Player lobbies, the lack of a good name filter (they bypass it all the time!) and the ability to just ban anyone who joins makes it hard to trace them or report them to Innersloth.
 Multiple attempts at communication with Innersloth have been attempted by now, yet none of them led to a real result, most tickets being either completely ignored or answered once or twice before being ignored.
-It is important to not only hold these players accountable, but also the **people at managing Innersloth** due to their negligence to the game's state and complete and utter ignorance to our attempts at enlightening them of this situation.
+It is important to not only hold these players accountable, but also the **people at Innersloth** due to their negligence to the game's state and complete and utter ignorance to our attempts at enlightening them of this situation.
 
 ## Why do we do this?
 To **spread awareness** of this issue. Innersloth doesn't want to acknowledge the game's state, so **we will**.
