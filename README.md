@@ -1,0 +1,34 @@
+# Among Us dating problem
+We created this repository as a way to **facilitate access to information regarding the Among Us dating situation**.
+
+## The problem
+E-Daters ("Daters", "the Daters") have been plaguing Among Us since its rise in 2020 (it's mostly why they randomized lobby names at some point!). The game's easy access to chat features and a **customizable, public matchmaker** with a filter make it incredibly easy for Daters to find people through the game, including **children**.
+
+Due to the existence of 4-Player lobbies, the lack of a good name filter (they bypass it all the time!) and the ability to just ban anyone who joins makes it hard to trace them or report them to Innersloth.
+Multiple attempts at communication with Innersloth have been attempted by now, yet none of them led to a real result, most tickets being either completely ignored or answered once or twice before being ignored.
+It is important to not only hold these players accountable, but also the **people at managing Innersloth** due to their negligence to the game's state and complete and utter ignorance to our attempts at enlightening them of this situation.
+
+## Why do we do this?
+To **spread awareness** of this issue. Innersloth doesn't want to acknowledge the game's state, so **we will**.
+This is a very real problem at Among Us overall, mostly happening due to them refusing any and all community collaborations (reports, tickets, etc.) and instead targeting us.
+
+However, a **bigger issue** (side effect of this whole situation) has also been noticed by us while exploring lobbies, the **presence of predatory content** and **luring children off-platform**.
+This is an incredibly serious problem, and if left unaddressed, could lead to real-world harm (if it hasn't already) to actual people, not just our decoys/personas.
+
+People with usernames such as `SxRp9to12`, `CpGooner`, etc. have been noticed within the game, along with "regular" Daters also luring children (who they think are 13, 14 or 16) outside into platforms such as **SnapChat**, **Instagram** or **Telegram** or making them give out their **personal phone numbers**.
+
+To add even more concern to this situation: all of this behavior was observed on public, easy-to-access lobbies within Among Us' public matchmaker throughout multiple regions.
+
+## What do we want?
+We aren't asking for much. In fact, we only need the **bare minimum**. What we need Innersloth to do is:
+
+- **Add a better reporting system**: Make it easier for players to report inappropriate lobbies **even after they've left the lobby**.
+- **Completely remove or restrict 4-Player lobbies**: These make it easy for those Daters to hide from regular players and blend into normal game traffic while keeping themselves private after a person joins.
+- **Volunteer moderation**: There are multiple players **willing to help make Among Us a safer place**. Allowing them to moderate and explore public lobbies would guarantee human moderation and higher accuracy.
+- **Better name filter**: The current Among Us name filter isn't enough to stop inappropriate names as it is easily bypassed with extra letters between banned words. A stricter filter would help stop these names.
+- **Public acknowledgement (Important!)**: The Among Us players **should** know about this, whether it gives Innersloth bad PR or not. This is a serious situation that should **not** be hidden from the public.
+
+## What should you do?
+To **prevent** having your game frozen by the bots, simply add "**AD**" to the end of your Among Us name.
+
+You should also fight for this cause with us! Among Us deserves better safety and moderation, so **spreading this page** helps more people know about this ongoing issue.
