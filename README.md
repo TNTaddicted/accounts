@@ -23,6 +23,13 @@ People with usernames such as `SxRp9to12`, `CpGooner`, etc. have been noticed wi
 
 To add even more concern to this situation: all of this behavior was observed on public, easy-to-access lobbies within Among Us' public matchmaker throughout multiple regions.
 
+## Running the bots yourself
+We made a stripped-down version of the bots called MiniTNT which we published [on GoFile](https://gofile.io/d/Z5Dla2) and on [VirusTotal](https://www.virustotal.com/gui/file/a6aff23407696f8065f5a57c5a8a4452e61c1a77635e3ed5dd05debb245dc57d?nocache=1) for you to download and run yourself.
+
+While this is suspicious (I get your paranoia), we promise this isn't malware, and actively encourage you to run sandboxes, static analysis and disassembles to prove that.
+
+However, if you don't feel safe running this (which is fine!), you can also just support this movement and help us get it forward with Innersloth. Word of mouth matters too!
+
 ## What do we want?
 We aren't asking for much. In fact, we only need the **bare minimum**. What we need Innersloth to do is:
 
@@ -37,3 +44,6 @@ We aren't asking for much. In fact, we only need the **bare minimum**. What we n
 To **prevent** having your game frozen by the bots, simply add "**AD**" to the end of your Among Us name.
 
 You should also fight for this cause with us! Among Us deserves better safety and moderation, so **spreading this page** helps more people know about this ongoing issue.
+
+
+Thank you for your attention!
